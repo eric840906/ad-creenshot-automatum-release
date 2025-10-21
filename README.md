@@ -1,0 +1,1 @@
+# ad-creenshot-automatum-release
