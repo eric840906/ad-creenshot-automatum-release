@@ -6,6 +6,22 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [v1.4.0] - 2025-10-27
+
+### Changes since v1.3.1
+
+#### Commits
+
+
+**✨ Features:**
+- feat: 實作 Safari 底部工具列合成邏輯 (f1279db)
+- feat: 新增 Safari 底部工具列模板基礎結構 (e2de092)
+
+**📝 Other Changes:**
+- docs: 加入 Safari 底部工具列功能規格文件 (21570a3)
+- docs: 更新專案文件與版本至 v1.4.0 (eaf1dae)
+
+
 ## [v1.3.1] - 2025-10-23
 
 ### Changes since v1.3.0
