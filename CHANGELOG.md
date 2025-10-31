@@ -6,6 +6,31 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [v1.5.0] - 2025-10-31
+
+### Changes since v1.4.2
+
+#### Commits
+
+
+**✨ Features:**
+- ✨feature: update config list (5b8033e)
+- ✨feature: 新增 android 相關 icon (a078ac6)
+- feat: 新增 Android Chrome 框架支援 (部分完成) (8b97733)
+
+**🐞 Bug Fixes:**
+- fix: 修正 Chrome 框架組合的兩個關鍵問題 (d5b6ad0)
+- fix: 新增 frame_type 欄位至 Joi 驗證架構 (b4e0728)
+
+**⚡ Improvements:**
+- ✨feature: update config list (5b8033e)
+
+**📝 Other Changes:**
+- v1.5.0 (9036c97)
+- 修改介面說明 (dba9399)
+- remove oudated workflow (9025202)
+
+
 ## [v1.4.2] - 2025-10-29
 
 ### Changes since v1.4.1
