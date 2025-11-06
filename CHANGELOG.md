@@ -6,6 +6,23 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [v1.6.0] - 2025-11-06
+
+### Changes since v1.5.0
+
+#### Commits
+
+
+**✨ Features:**
+- feat: 為 DV360 模式新增橫幅隱藏支援 (8f10d88)
+- feat: 將橫幅關閉機制從點擊改為 CSS 隱藏 (06756b7)
+
+**📝 Other Changes:**
+- v1.6.0 (173a7e9)
+- docs: 新增橫幅 CSS 隱藏功能的規格文件 (eda80b5)
+- docs: 更新橫幅隱藏配置文件 (ee02790)
+
+
 ## [v1.5.0] - 2025-10-31
 
 ### Changes since v1.4.2
