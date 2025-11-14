@@ -6,6 +6,29 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [v1.7.1] - 2025-11-14
+
+### Changes since v1.6.1
+
+#### Commits
+
+
+**✨ Features:**
+- ✨feature: native save as feature (b793993)
+- feat: add campaign tab filtering to results page (baacc3f)
+- feat: add campaign tabs UI for config organization (668a2fc)
+- feat: add campaign management backend API (8473253)
+- docs: add campaign tabs feature specification and tests (b10fbf1)
+
+**🐞 Bug Fixes:**
+- 🐞 fix: 1. fix undefined toast. 2.add config name validation to prevent duplicate name (28d159d)
+
+**📝 Other Changes:**
+- v1.7.1 (acbcad8)
+- v1.7.0 (028d141)
+- organize ui codes (a266492)
+
+
 ## [v1.6.1] - 2025-11-06
 
 ### Changes since v1.6.0
