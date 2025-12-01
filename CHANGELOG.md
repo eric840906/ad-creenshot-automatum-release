@@ -6,6 +6,37 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [v2.0.0] - 2025-12-01
+
+### Changes since v1.8.0
+
+#### Commits
+
+
+**✨ Features:**
+- remove next config features (df9120e)
+- feat: 新增 PNG 圖示與 CSS 樣式至截圖按鈕 (Screenshot Button Icon & Styling) (b609ee5)
+- feat: Add CSS styling for PNG icon in screenshot button (d19c381)
+- feat: 整合偵錯控制到自動化工作流程 (9893675)
+- feat: 完成按鈕注入和事件監聽的完整整合 (370f5f2)
+- feat: 實作手動截圖擷取核心功能 (T010-T025) (e1c3136)
+- feat: 實作非干擾性按鈕放置邏輯 (T043-T057) (8cf333e)
+- feat: 新增偵錯控制管理器基礎骨架 (T006-T009) (b9c5aa0)
+
+**🐞 Bug Fixes:**
+- fix: Fix debug controls hiding and Safari toolbar overlay composition (3d8a6c7)
+- 🐞 fix: crash when closing browser (c8371b7)
+- fix: Pass configIndex and configTotal in sequential and parallel config execution (33a0800)
+
+**📝 Other Changes:**
+- v2.0.0 (19730b6)
+- add icon (f3501e5)
+- inject camera button earlier (ba27729)
+- implement instance cleaning (1e76a1c)
+- migrate base64 (fe5dd9f)
+- done planning (24f8ba3)
+
+
 ## [v1.8.0] - 2025-11-14
 
 ### Changes since v1.7.1
