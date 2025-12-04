@@ -6,6 +6,27 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [v2.1.0] - 2025-12-04
+
+### Changes since v2.0.0
+
+#### Commits
+
+
+**✨ Features:**
+- feat(US3): 確保舊配置相容性，忽略已棄用欄位執行 (097d387)
+- feat(US2): 從配置表單移除已棄用欄位 (9aa4435)
+- feat(US1): 移除無頭模式UI，強制所有測試在可見除錯模式運行 (dfdbd8b)
+
+**🐞 Bug Fixes:**
+- 🐞 fix: issue that filter cleans selected items (c2f50e2)
+
+**📝 Other Changes:**
+- v2.1.0 (ca58f20)
+- docs: 新增功能規格文件與版本更新 (98dd326)
+- v2.0.1 (2789b26)
+
+
 ## [v2.0.0] - 2025-12-01
 
 ### Changes since v1.8.0
