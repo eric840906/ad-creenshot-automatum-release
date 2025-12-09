@@ -6,6 +6,33 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [v2.2.0] - 2025-12-09
+
+### Changes since v2.1.0
+
+#### Commits
+
+
+**✨ Features:**
+- feat(US3): 新增視覺化回饋與錯誤處理強化 (4bee234)
+- feat: 新增視覺化廣告位置注入按鈕圖示 (e7c170f)
+- feat: 「注入這裡」按鈕改為僅顯示圖示 (6032b8f)
+- feat: 「注入這裡」按鈕改為僅顯示圖示 (adbebf3)
+- feat: 新增視覺化廣告位置選擇功能 (User Story 1 - MVP) (9f5f725)
+
+**🐞 Bug Fixes:**
+- fix: 修正視覺化廣告放置的 CSS 選擇器生成與替換邏輯 (aaab43e)
+
+**⚡ Improvements:**
+- refactor: mobile-inread 與 DV360 改為手動注入模式 (9619fa4)
+- improve user experience (bc4dc34)
+
+**📝 Other Changes:**
+- v2.2.0 (648289c)
+- docs: 更新 CLAUDE.md 新增視覺化廣告位置選擇功能說明 (3ba345d)
+- docs: 新增視覺化廣告位置選擇功能規格文件 (252b8f9)
+
+
 ## [v2.1.0] - 2025-12-04
 
 ### Changes since v2.0.0
